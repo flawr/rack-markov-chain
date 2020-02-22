@@ -1,0 +1,23 @@
+{
+  "slug": "MarkovChainPlugin",
+  "name": "MarkovChainPlugin",
+  "version": "1.0.0",
+  "license": "cc0-1.0",
+  "brand": "MarkovChainPlugin",
+  "author": "flowings",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MarkovModule",
+      "name": "MarkovModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}

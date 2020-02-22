@@ -1,0 +1,23 @@
+{
+  "slug": "MarkovChainPlugin",
+  "name": "MarkovChainPlugin",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "MarkovChainPlugin",
+  "author": "flawr",
+  "authorEmail": "",
+  "authorUrl": "https://github.com/flawr/rack-markov-chain",
+  "pluginUrl": "https://github.com/flawr/rack-markov-chain",
+  "manualUrl": "https://github.com/flawr/rack-markov-chain",
+  "sourceUrl": "https://github.com/flawr/rack-markov-chain",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MarkovModule",
+      "name": "MarkovModule",
+      "description": "a four state Markov Chain for VCV Rack",
+      "tags": ["Sequencer"]
+    }
+  ]
+}
